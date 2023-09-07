@@ -1,5 +1,9 @@
-💻 Sou estudante de análise e desenvolvimento de sistemas na universidade Cruzeiro Do Sul 
-🌱 Estudo as tecnologias Javascript, HTML e CSS.
+# Gustavo Albano
+
+
+### About me
+- :computer: Sou estudante de análise e desenvolvimento de sistemas na universidade Cruzeiro Do Sul 
+- :seedling: Estudo as tecnologias Javascript, HTML e CSS.
 
 Conecte-se comigo:
 #### Conecte-se comigo:
